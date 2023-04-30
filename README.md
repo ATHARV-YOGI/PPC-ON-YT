@@ -4,9 +4,9 @@
 
 **Programming Language Used : C**
 
-- [Programming in C](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR)
+- [Programming in C](https://youtube.com/playlist?list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW)
 
-- [DS-ALGO](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
+- [DS-ALGO](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 
 - [Analysis of Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
