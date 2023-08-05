@@ -1,6 +1,4 @@
-# PPC-ON-YT
-
-# Resources-for-preparation-Of-Placements (Lecture video links)
+# Free Placement Prepration Courses
 
 **Programming Language Used : C**
 
